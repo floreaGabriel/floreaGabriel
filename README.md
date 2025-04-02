@@ -1,4 +1,4 @@
-Below is the content translated into English:
+
 
 <div align="center"> <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> </div>
 <div align="center"> <a href="https://www.linkedin.com/in/gabriel-florea-9210a8256/"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" /> </a> <a href="https://github.com/floreaGabriel"> <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" /> </a> <a href="mailto:g.florea2004@gmail.com"> <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" /> </a> </div>
