@@ -11,7 +11,7 @@
   <a href="https://github.com/floreaGabriel">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo"  />
   </a>
-  <a href="mailto:gabriel.florea@example.com">
+  <a href="mailto:g.florea2004@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
@@ -86,29 +86,6 @@ Sunt student în anul 3 la Academia Tehnică Militară "Ferdinand I", Facultatea
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
 </div>
-
-###
-
-<h3 align="left">📊 Statisticile mele</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gabrielflorea&show_icons=true&count_private=true&hide_title=false&theme=react&hide_border=true&bg_color=0D1117" alt="Gabriel Florea's GitHub Stats" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielflorea&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Most Used Languages" />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gabrielflorea&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&background=0D1117" height="220" alt="streak graph" />
-</div>
-
 ###
 
 <h3 align="left">💡 Citat preferat</h3>
